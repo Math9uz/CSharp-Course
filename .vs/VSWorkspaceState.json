@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\PrimeiroCode",
+    "\\PrimeiroCode\\PrimeiroCode"
   ],
-  "SelectedNode": "\\C:\\Users\\mathe\\OneDrive\\Documentos\\CSharp-Course",
+  "SelectedNode": "\\PrimeiroCode\\PrimeiroCode\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
