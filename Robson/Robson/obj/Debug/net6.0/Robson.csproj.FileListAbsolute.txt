@@ -1,0 +1,15 @@
+C:\Users\mathe\OneDrive\Documentos\CSharp-Course\Robson\Robson\obj\Debug\net6.0\Robson.csproj.AssemblyReference.cache
+C:\Users\mathe\OneDrive\Documentos\CSharp-Course\Robson\Robson\obj\Debug\net6.0\Robson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\OneDrive\Documentos\CSharp-Course\Robson\Robson\obj\Debug\net6.0\Robson.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Documentos\CSharp-Course\Robson\Robson\obj\Debug\net6.0\Robson.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Documentos\CSharp-Course\Robson\Robson\obj\Debug\net6.0\Robson.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Documentos\CSharp-Course\Robson\Robson\bin\Debug\net6.0\Robson.exe
+C:\Users\mathe\OneDrive\Documentos\CSharp-Course\Robson\Robson\bin\Debug\net6.0\Robson.deps.json
+C:\Users\mathe\OneDrive\Documentos\CSharp-Course\Robson\Robson\bin\Debug\net6.0\Robson.runtimeconfig.json
+C:\Users\mathe\OneDrive\Documentos\CSharp-Course\Robson\Robson\bin\Debug\net6.0\Robson.dll
+C:\Users\mathe\OneDrive\Documentos\CSharp-Course\Robson\Robson\bin\Debug\net6.0\Robson.pdb
+C:\Users\mathe\OneDrive\Documentos\CSharp-Course\Robson\Robson\obj\Debug\net6.0\Robson.dll
+C:\Users\mathe\OneDrive\Documentos\CSharp-Course\Robson\Robson\obj\Debug\net6.0\refint\Robson.dll
+C:\Users\mathe\OneDrive\Documentos\CSharp-Course\Robson\Robson\obj\Debug\net6.0\Robson.pdb
+C:\Users\mathe\OneDrive\Documentos\CSharp-Course\Robson\Robson\obj\Debug\net6.0\Robson.genruntimeconfig.cache
+C:\Users\mathe\OneDrive\Documentos\CSharp-Course\Robson\Robson\obj\Debug\net6.0\ref\Robson.dll
