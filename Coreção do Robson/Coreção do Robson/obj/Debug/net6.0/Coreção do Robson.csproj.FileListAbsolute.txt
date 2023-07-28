@@ -1,0 +1,15 @@
+C:\Users\mathe\OneDrive\Documentos\CSharp-Course\Coreção do Robson\Coreção do Robson\bin\Debug\net6.0\Coreção do Robson.exe
+C:\Users\mathe\OneDrive\Documentos\CSharp-Course\Coreção do Robson\Coreção do Robson\bin\Debug\net6.0\Coreção do Robson.deps.json
+C:\Users\mathe\OneDrive\Documentos\CSharp-Course\Coreção do Robson\Coreção do Robson\bin\Debug\net6.0\Coreção do Robson.runtimeconfig.json
+C:\Users\mathe\OneDrive\Documentos\CSharp-Course\Coreção do Robson\Coreção do Robson\bin\Debug\net6.0\Coreção do Robson.dll
+C:\Users\mathe\OneDrive\Documentos\CSharp-Course\Coreção do Robson\Coreção do Robson\bin\Debug\net6.0\Coreção do Robson.pdb
+C:\Users\mathe\OneDrive\Documentos\CSharp-Course\Coreção do Robson\Coreção do Robson\obj\Debug\net6.0\Coreção do Robson.csproj.AssemblyReference.cache
+C:\Users\mathe\OneDrive\Documentos\CSharp-Course\Coreção do Robson\Coreção do Robson\obj\Debug\net6.0\Coreção do Robson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\OneDrive\Documentos\CSharp-Course\Coreção do Robson\Coreção do Robson\obj\Debug\net6.0\Coreção do Robson.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Documentos\CSharp-Course\Coreção do Robson\Coreção do Robson\obj\Debug\net6.0\Coreção do Robson.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Documentos\CSharp-Course\Coreção do Robson\Coreção do Robson\obj\Debug\net6.0\Coreção do Robson.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Documentos\CSharp-Course\Coreção do Robson\Coreção do Robson\obj\Debug\net6.0\Coreção do Robson.dll
+C:\Users\mathe\OneDrive\Documentos\CSharp-Course\Coreção do Robson\Coreção do Robson\obj\Debug\net6.0\refint\Coreção do Robson.dll
+C:\Users\mathe\OneDrive\Documentos\CSharp-Course\Coreção do Robson\Coreção do Robson\obj\Debug\net6.0\Coreção do Robson.pdb
+C:\Users\mathe\OneDrive\Documentos\CSharp-Course\Coreção do Robson\Coreção do Robson\obj\Debug\net6.0\Coreção do Robson.genruntimeconfig.cache
+C:\Users\mathe\OneDrive\Documentos\CSharp-Course\Coreção do Robson\Coreção do Robson\obj\Debug\net6.0\ref\Coreção do Robson.dll
