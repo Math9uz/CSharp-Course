@@ -1,0 +1,15 @@
+C:\Users\mathe\OneDrive\Documentos\CSharp-Course\Marilene\Marilene\obj\Debug\net6.0\Marilene.csproj.AssemblyReference.cache
+C:\Users\mathe\OneDrive\Documentos\CSharp-Course\Marilene\Marilene\obj\Debug\net6.0\Marilene.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\OneDrive\Documentos\CSharp-Course\Marilene\Marilene\obj\Debug\net6.0\Marilene.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Documentos\CSharp-Course\Marilene\Marilene\obj\Debug\net6.0\Marilene.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Documentos\CSharp-Course\Marilene\Marilene\obj\Debug\net6.0\Marilene.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Documentos\CSharp-Course\Marilene\Marilene\bin\Debug\net6.0\Marilene.exe
+C:\Users\mathe\OneDrive\Documentos\CSharp-Course\Marilene\Marilene\bin\Debug\net6.0\Marilene.deps.json
+C:\Users\mathe\OneDrive\Documentos\CSharp-Course\Marilene\Marilene\bin\Debug\net6.0\Marilene.runtimeconfig.json
+C:\Users\mathe\OneDrive\Documentos\CSharp-Course\Marilene\Marilene\bin\Debug\net6.0\Marilene.dll
+C:\Users\mathe\OneDrive\Documentos\CSharp-Course\Marilene\Marilene\bin\Debug\net6.0\Marilene.pdb
+C:\Users\mathe\OneDrive\Documentos\CSharp-Course\Marilene\Marilene\obj\Debug\net6.0\Marilene.dll
+C:\Users\mathe\OneDrive\Documentos\CSharp-Course\Marilene\Marilene\obj\Debug\net6.0\refint\Marilene.dll
+C:\Users\mathe\OneDrive\Documentos\CSharp-Course\Marilene\Marilene\obj\Debug\net6.0\Marilene.pdb
+C:\Users\mathe\OneDrive\Documentos\CSharp-Course\Marilene\Marilene\obj\Debug\net6.0\Marilene.genruntimeconfig.cache
+C:\Users\mathe\OneDrive\Documentos\CSharp-Course\Marilene\Marilene\obj\Debug\net6.0\ref\Marilene.dll
